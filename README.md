@@ -6,3 +6,6 @@ This project is a first protoype of a system that will help blind people to navi
 Work in progress
 # Video
 https://drive.google.com/file/d/0B46JHMqs0LdlNkwtem42MWdjTFk/view?usp=sharing 
+
+#Circuit
+https://123d.circuits.io/circuits/2229801-blind-flashlight
