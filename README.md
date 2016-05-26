@@ -3,6 +3,10 @@ cs50 final project A flashlight for blind people
 
 This project is a first protoype of a system that will help blind people to navigate effectively independently
 
+I used a laser cutter and 1/8 inch acrillicc to create the faceplate in which the sensor mounts 
+
+I've included the arduino code and the illustrator file I used to cut the faceplate
+
 Work in progress
 # Video
 https://drive.google.com/file/d/0B46JHMqs0LdlNkwtem42MWdjTFk/view?usp=sharing 
